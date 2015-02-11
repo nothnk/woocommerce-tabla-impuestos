@@ -1,0 +1,6 @@
+Código de país,Código Provincia,Código postal,Ciudad,Calificar,Nombre tarifa,Prioridad,Compuesto,Envío,Tipo de Impuesto
+ES,GC,*,*,0.0000,Sin IVA,1,0,1,
+ES,TF,*,*,0.0000,Sin IVA,1,0,1,
+ES,CE,*,*,0.0000,Sin IVA,1,0,1,
+ES,ML,*,*,0.0000,Sin IVA,1,0,1,
+*,*,*,*,21.0000,21% IVA,1,0,1,
