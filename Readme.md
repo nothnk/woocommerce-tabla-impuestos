@@ -15,4 +15,4 @@ El fichero está en formato csv y para importarlo tenemos que seguir los siguien
 
  Sí todo va bien, si nos dirigimos de nuevo a  Woocommerce -> Ajustes -> Impuestos tendremos que ver la tablar rellena de la misma forma que la siguient imagen.
 
- 
+ ![Table de impuestos](tabla-impuestos-es-woocomerce.png)
